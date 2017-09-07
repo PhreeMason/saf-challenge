@@ -24,7 +24,7 @@ Also, currently the ReturnsAnalyzer only works if the data is formatted correctl
 
 ## How To Run
 
-To run this program simply clone the repository and run `bundle install`. Next, run `ruby bin/analyzer.rb` and enter the name of the file to analyzer once prompted.
+To run this program simply clone the repository and run `bundle install`. Next, run `ruby bin/analyzer.rb` and enter the name of the file to analyze once prompted.
 
 
 Thank You
