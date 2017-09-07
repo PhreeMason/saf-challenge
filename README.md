@@ -4,7 +4,7 @@
 
 This is a program that reads inputted text files and prints a formatted summary to the console.
 
-When given a file with the correct formatting the ReturnsAnalyzer class will output a summary of the data within the file.
+When given a file with valid formatting the ReturnsAnalyzer class will output a summary of the data within the inputed file.
 
 ## Improvements
 
@@ -20,7 +20,7 @@ stock_1.performs_better_than?(stock_2) #=> true
 ```
 In addition to the above method it is possible to add on features for parsing larger files or folders containing thousands of files. These files can all then be used to create new instances of ReturnsAnalyzer for comparisons.
 
-Also currently the ReturnsAnalyzer only works if the data is formatted correctly. Adding methods that look for specific information within the file such as a year or a string of numbers representing returns can improve this.
+Also, currently the ReturnsAnalyzer only works if the data is formatted correctly. Adding methods that look for specific information within the file such as a year or a string of numbers representing returns can improve this.
 
 ## How To Run
 
